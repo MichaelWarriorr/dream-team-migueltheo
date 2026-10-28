@@ -1,17 +1,17 @@
 Aluno - Theo
-Treinador - Jorge Jesus
-Capitão - Cristiano Ronaldo
-Estádio - Maracanã
+Treinador - Abel Ferreira
+Capitão - Gabigol
+Estádio - Porcos
 
 Nº   Posição   Jogador
-1    GR        Muralha
-2    DE        Roberto Carlos
+1    GR        Julio Cesar
+2    DE        Otavio
 3    DC        Tiago Silva
-4    DC        Beckenbauer
+4    DC        Roberto
 5    DD        Cafu
-6    MDF       Casemiro
+6    MDF       Danilo
 7    MC        De Bruyne
-8    MC        Bruno Fernandes
+8    MC        Seko Fofana
 9    EE	       Neymar
-10   ED        Messi
-11   PL        Cristiano Ronaldo
+10   ED        Vini
+11   PL        Gabigol
