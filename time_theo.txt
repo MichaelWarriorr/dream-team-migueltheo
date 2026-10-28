@@ -16,5 +16,9 @@ Nº   Posição   Jogador
 10   ED        Vini
 11   PL        Gabigol
 
+<<<<<<< HEAD
 
 Eu não concordo com esta equipa falta o goat marega
+=======
+// Está tudo certo sem nenhuma erro
+>>>>>>> origin/Theo
