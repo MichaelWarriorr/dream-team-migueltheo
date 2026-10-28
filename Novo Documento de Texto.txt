@@ -1,0 +1,19 @@
+Ficha
+
+Aluno : Miguel Guerreiro
+Treinador: Franseco Farioli
+Capitao: Diogo Costa
+Estadio/ alcunha : Dragao Tripeiros
+
+Nº  Posicao       Jogador
+1   Gr            Diogo Costa
+2   DE            Zaidu
+3   DC            Bednarek
+4   DC            Kiwior
+5   DD            Alberto Costa
+6   MDF           Rosario
+7   MC            Veiga
+8   MC            Froholt
+9   EE            Pêpê
+10  ED            Gomes
+11  PL            Samu
