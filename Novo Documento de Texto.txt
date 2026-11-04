@@ -15,5 +15,5 @@ Nº  Posicao       Jogador
 7   MC            Veiga
 8   MC            Froholt
 9   EE            Pêpê
-10  ED            Dj telio
+10  ED            Dj ole
 11  PL            Hulk
