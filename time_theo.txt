@@ -15,3 +15,10 @@ Nº   Posição   Jogador
 9    EE	       Neymar
 10   ED        Vini
 11   PL        Gabigol
+
+<<<<<<<<< Temporary merge branch 1
+// Está tudo certo sem nenhuma erro
+=========
+
+Eu não concordo com esta equipa falta o goat marega
+>>>>>>>>> Temporary merge branch 2
