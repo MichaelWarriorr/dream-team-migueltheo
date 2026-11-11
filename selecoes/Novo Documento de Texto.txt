@@ -1,19 +1,15 @@
-Ficha
-
-Aluno : Miguel Gayrreiro
+Aluno: Miguel Guerreiro
 Treinador: Sergio Conceição
-Capitao: Rogerio ceni
-Estadio/ alcunha : Dragao Tripeiros
+Capitão: Rogerio Ceni
 
-Nº  Posicao       Jogador
-1   Gr            Diogo Costa
-2   DE            Zaidu
-3   DC            pepe
-4   DC            Tiago Silva
-5   DD            Roberto Costa
-6   MDF           Rosario
-7   MC            Veiga
-8   MC            Froholt
-9   EE            Pêpê
-10  ED            Dj ole
-11  PL            Hulk
+Nº Posicao Jogador
+1 GR Diogo Costa
+2 DE Zaidu
+3 DC Pepe
+4 DC Tiago Silva
+5 DD Roberto Costa
+6 MC Rosario
+7 MC Veiga
+8 MC Froholt
+10 ED Dj Ole
+11 PL Hulk
