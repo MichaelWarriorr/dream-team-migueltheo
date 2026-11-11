@@ -1,0 +1,15 @@
+name: Valida Selecoes
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  valida:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+
+      - name: Executa script de validacao
+        run: bash scripts/valida.sh
