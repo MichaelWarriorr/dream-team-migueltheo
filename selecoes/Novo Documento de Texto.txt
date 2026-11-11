@@ -11,5 +11,6 @@ Nº Posicao Jogador
 6 MC Rosario
 7 MC Veiga
 8 MC Froholt
+9 EE Pêpê
 10 ED Dj Ole
 11 PL Hulk
